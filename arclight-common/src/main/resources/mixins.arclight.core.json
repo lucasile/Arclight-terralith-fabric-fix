@@ -274,6 +274,7 @@
     "world.food.FoodDataMixin",
     "world.gen.WorldGenRegionMixin",
     "world.gen.feature.structure.SwampHutPieceMixin",
+    "world.gen.feature.structure.TransformerGeneratorAccessMixin",
     "world.inventory.AbstractContainerMenuMixin",
     "world.inventory.AbstractFurnaceContainerMixin",
     "world.inventory.AnvilMenuMixin",
